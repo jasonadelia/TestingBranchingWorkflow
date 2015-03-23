@@ -11,4 +11,4 @@ Thumbs.db
 /source/_resources/less/config.codekit
 **.log
 *.log
-/build
+/source
