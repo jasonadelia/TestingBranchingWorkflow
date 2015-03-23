@@ -1,3 +1,3 @@
 <html>
-	<body>Another</body>
+	<body>Another <?php echo("one"); ?></body>
 </html>
