@@ -1,0 +1,14 @@
+.DS_Store
+.DS_Store?
+Thumbs.db
+/node_modules
+*-ck.js
+*.orig
+/source/*.css
+/source/**/*.css
+**codekit-config.json
+**config.codekit
+/source/_resources/less/config.codekit
+**.log
+*.log
+/build
